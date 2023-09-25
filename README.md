@@ -6,3 +6,4 @@
 # hollla
 # goodbbyee
 # lolo
+# ko cho up len main
